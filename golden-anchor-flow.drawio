@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T05:21:16.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-KDpTpUKScJKhgrDs2Mg" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T05:23:10.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SYTKHHWalKspzYusbIqL" version="22.0.8" type="github">
   <diagram name="Page-1" id="X7dNlaw1ycAOgsmjk5F8">
-    <mxGraphModel dx="1716" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2451" dy="1303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,7 +275,7 @@
         <mxCell id="vP9pcl3uwLg1Uck1mjrX-141" value="Account Profile /&amp;nbsp; Edit Profile" style="text;strokeColor=#36393d;fillColor=#f9f7ed;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="vP9pcl3uwLg1Uck1mjrX-140">
           <mxGeometry y="26" width="231" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vP9pcl3uwLg1Uck1mjrX-143" value="Quatation Request" style="text;strokeColor=#BD7000;fillColor=#f0a30a;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="vP9pcl3uwLg1Uck1mjrX-140">
+        <mxCell id="vP9pcl3uwLg1Uck1mjrX-143" value="Quatation Requests" style="text;strokeColor=#BD7000;fillColor=#f0a30a;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="vP9pcl3uwLg1Uck1mjrX-140">
           <mxGeometry y="56" width="231" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vP9pcl3uwLg1Uck1mjrX-144" value="Quatatio n Recived" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="vP9pcl3uwLg1Uck1mjrX-140">
