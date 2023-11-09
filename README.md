@@ -1,1 +1,1 @@
-# [golden-anchor-visualizations](https://tinyurl.com/golden-anchor-visual)
+# [Golden Anchor Visualization Diagrams](https://tinyurl.com/golden-anchor-visual)
